@@ -1,7 +1,7 @@
 # miembros
 
-Diego Diaz \n
-William Donado \n
-Sebastian Silva \n
+Diego Diaz - 
+William Donado - 
+Sebastian Silva - 
 
 **en negrita**
